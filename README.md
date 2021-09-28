@@ -1,1 +1,2 @@
 # PROJECT
+In this project i have walk through step by step process to make a cryto currency tracker app. It is android application . In this app i have displayed the different cryptocurrency present in the crypto market along with the search functionality. I have used volley as a library for parsing the Json data from the API. And apart from this in this application  we will get to see the different crypto currencies along with it's symbol, rate and it's named and in search tab we can search and find any crypto currencies that is present in cryto exchange.
