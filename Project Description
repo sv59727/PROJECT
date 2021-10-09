@@ -6,3 +6,5 @@ In this project i have walk through step by step process to make a cryto currenc
 -> Inside the application as i fetch data from webAPI so I added a permission for internet to use the internet in menifest folder.
 -> I have creating the API key by using CoinMarketCap. After generating the link of API i paste it in PostMan to get API testing.
 -> Postman is an application used for API testing.
+
+-> Idea of this project is that currently the the market of the crypto currency is all time high and also many people want to invest there money and they need a light weight app to analysis the market and also the crypto currency is very trending among our youth so this app provides them all the information they want. And this is the main reason to build the app.
